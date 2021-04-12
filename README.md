@@ -1,5 +1,5 @@
 <center>
-<img src="GlitterLogoHoriz.png" style="width:20rem;">
+<img src="GlitterLogoHoriz.png">
 Glitter React.js Component Library<br/>
 <em>By Emily Moranha</em>
 </center>
